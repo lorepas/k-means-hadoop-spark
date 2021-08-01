@@ -1,0 +1,6 @@
+it/unipi/hadoop/PointWritable.class
+it/unipi/hadoop/Centroid.class
+it/unipi/hadoop/Kmeans$KmeansCombiner.class
+it/unipi/hadoop/Kmeans$KmeansMapper.class
+it/unipi/hadoop/Kmeans.class
+it/unipi/hadoop/Kmeans$KmeansReducer.class
