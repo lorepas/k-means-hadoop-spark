@@ -19,3 +19,6 @@ The algorithm is the following:
 
 *Our stop condition is that the difference between all the centroids belonging to two successive iterations is below to 0.1.*
 
+## NOTE
+The code is running in VM provided by our institute.
+
